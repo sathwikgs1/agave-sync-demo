@@ -1,6 +1,6 @@
 # agave-sync-demo
 
-This project is inspired by the engineering challenges Agave is working to solve. It’s my attempt to simulate a unified data-sync engine that connects legacy systems, handles multi-tenant workloads fairly, and optimizes caching strategies — all in a practical, hands-on way.
+This project is inspired by the engineering challenges Agave is working to solve. It’s my attempt to simulate a unified data-sync engine that connects legacy systems, handles multi-tenant workloads fairly, and optimizes caching strategies.
 
 Here’s the high-level feature plan I’m building out:
 
