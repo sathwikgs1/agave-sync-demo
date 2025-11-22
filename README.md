@@ -30,7 +30,7 @@ Here’s the high-level feature plan I’m building out:
 
 ---
 
-I’ll be documenting **every decision I make** — what I researched, why I chose certain approaches, what I learned along the way, and how the design evolved.
+I’ll be documenting **every decision I make** - what I researched, why I chose certain approaches, what I learned along the way, and how the design evolved.
 
 My goal is to complete this project in the next **5 weeks**.  
 If anyone from the Agave team comes across this, I’d love to connect and chat more about the project!
